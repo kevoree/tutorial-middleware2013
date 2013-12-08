@@ -11,47 +11,49 @@ dinamically updates => your phone updates dinamically
 
 
 
-practise -> practice
-dynamically updates -> updates at runtime
-Why software are ...  -> Why is software distributed ...
-geographically adapted -> geographic adaptation
-physically adapted -> physical adaptation
-network error ... -> network failures break retrieve/update exchanges
-when will C be updated : je ne comprends pas trop
-Research questions ? - > Research questions
-manipulate distributed -> manage distributed
+V practise -> practice
+
+V dynamically updates -> updates at runtime
+VWhy software are ...  -> Why is software distributed ...
+
+Vgeographically adapted -> geographic adaptation
+Vphysically adapted -> physical adaptation
+V network error ... -> network failures break retrieve/update exchanges
+V when will C be updated : je ne comprends pas trop
+V Research questions ? - > Research questions
+V manipulate distributed -> manage distributedV 
 -- no space before the question mark, or before colon (:)
-issue in several distributed environment -> issue in distributed environments
+V issue in several distributed environment -> issue in distributed environments
 
 opportunistic nodes A, B, C - > N1, N2 ...
 [Architectural abstraction needed] legend -> key
-Kevoree Project -> The Kevoree Project
-A model as abstraction -> A model as an abstraction
-Encapsulate -> Encapsulates
+V Kevoree Project -> The Kevoree Project
+V A model as abstraction -> A model as an abstraction
+V Encapsulate -> Encapsulates
 [Channel Type] Implement -> Implements
 -- Outline/relief fonts are very difficult to read!!!
-Let's try -> Let's try it
+V Let's try -> Let's try it
 
 
-the last Kevoree editor - > the latest Kevoree editor
-bound through an Distributed Broadcast -> bound through a Distributed Broadcast
-servcie -> service
-Input binding use -> Input bindings use
-Kevoree Modelling -> Kevoree Modeling
-remvoe -> remove
-Kevoree for managing cloud -> Kevoree for cloud management
-Kevoree node is a container, of -> Kevoree node is a container of
-parent node has responsibility for -> is responsible for
-NodeType refine -> NodeType refines
-Think the Cloud -> See the Cloud
-Just Add/Remove ...  -> Add/Remove node capability only
-that dynamically reallocate -> that dynamically reallocates
+V the last Kevoree editor - > the latest Kevoree editor
+V Vbound through an Distributed Broadcast -> bound through a Distributed Broadcast
+V servcie -> service
+V Input binding use -> Input bindings use
+VKevoree Modelling -> Kevoree Modeling
+Vremvoe -> remove
+V Kevoree for managing cloud -> Kevoree for cloud management
+VKevoree node is a container, of -> Kevoree node is a container of
+Vparent node has responsibility for -> is responsible for
+VNodeType refine -> NodeType refines
+VThink the Cloud -> See the Cloud
+V Just Add/Remove ...  -> Add/Remove node capability only
+V that dynamically reallocate -> that dynamically reallocates
 [Challenges of adaptation ... ] -- lines appear at once, not one after the other
-not powered enough -> not powerful enough
-[For comfort ans critical uses] -- unclear
-FIFO on font of each ports -> ????
-If you get lost -> If you got lost
-Brittany firefighters -> firefighters tactical decision system
+Vnot powered enough -> not powerful enough
+V[For comfort ans critical uses] -- unclear
+VFIFO on font of each ports -> ????
+VIf you get lost -> If you got lost
+VBrittany firefighters -> firefighters tactical decision system
 
 
 
